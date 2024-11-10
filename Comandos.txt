@@ -1,0 +1,10 @@
+front
+npm init
+npm create vite@latest front — –template react
+npm install
+npm run dev
+npm install react-router-dom react-hook-form
+
+backend
+npm install express-generator -g
+express --no-view backend

@@ -1,0 +1,22 @@
+.card-container {
+  padding: 20px;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.75);
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.card:hover {
+  box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.75);
+}
+
+.card h1 {
+  margin: 0;
+  color: #333;
+}
